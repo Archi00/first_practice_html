@@ -8,7 +8,7 @@
   <!-- start the website -->
   <body>
     <h1>An Insider's Guide to NYFW</h1>
-      <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-one.jpeg"/>
+      <a href="#contact"> <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-one.jpeg"/></a>
       <p>“<a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week" target="_blank">NYFW</a> can 
       be both amazingly fun & incredibly overwhelming, especially if you’ve never been.
       Luckily, I’m here to give you an insider’s guide and make your first show a pleasurable experience. 
@@ -29,7 +29,10 @@
       Also it’s important to wear shoes you’ll be comfortable in all day. 
       Obviously you want to look good, but you’ll be on your feet all day long, so be prepared.</p>
     <div id="contact">
-      <p><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001</p>
+      <p><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | 
+      <strong>address</strong>: 371 284th St, New York, NY, 10001</p>
+    </div> 
+
   </body>
   <!-- New sections and stuff -->
   <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/profile.jpg"/>
